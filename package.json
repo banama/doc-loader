@@ -1,6 +1,6 @@
 {
   "name": "doc-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The docoment file webpack loader for Vdoc.",
   "main": "index.js",
   "scripts": {

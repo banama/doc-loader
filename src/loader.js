@@ -53,6 +53,5 @@ module.exports = function (content) {
         + '    : {}\n' + '  if (mod.__esModule) mod = mod.default\n'
         + '  if (__vdoc_template__) { (typeof mod === "function" ? mod.options : mod).html = __vdoc_template__ }\n' + '  return mod\n' + '}';
 
-        console.log(output)
     return output;
 };
